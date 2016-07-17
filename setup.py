@@ -5,5 +5,5 @@ setup(name='EmmaPython',
       description='Emma python client',
       author='Greg Ward',
       author_email='gward@python.net',
-      py_modules = ['emma'],
+      packages = ['emma'],
      )
