@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
-setup(name='EmmaPython',
-      version='1.0',
+setup(name='+git+https://github.com/prep4gmat/EmmaPython.git#egg=emma',
+      version='',
       description='Emma python client',
       author='Greg Ward',
       author_email='gward@python.net',
